@@ -70,5 +70,5 @@
 4. 문제를 푼 파일(`Solution_이름.java`)을 폴더에 넣습니다.
 5. `git add .` 명령을 실행합니다.
 6. `git commit` 명령을 통해 해당 문제에 대한 커밋 메세지를 작성합니다. (상단의 커밋 메세지 규칙 참고)
-7. `git pull origin master` 명령으로 local repository update 합니다.
-8. `git push origin master` 명령으로 remote repository에 브런치를 push합니다.
+7. `git pull origin main` 명령으로 local repository update 합니다.
+8. `git push origin main` 명령으로 remote repository에 브런치를 push합니다.
