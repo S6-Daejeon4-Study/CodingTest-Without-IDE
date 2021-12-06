@@ -44,10 +44,10 @@
      - L1_두정수사이의합
    - 5주차(L3 3문제 + L2 2문제)
      - <a href="https://programmers.co.kr/learn/courses/30/lessons/86053">L3_금과 은 운반하기</a>
-     - L2_프린터
-     - L3_오랜 기간 보호한 동물(1) (sql)
-     - L2_기능개발
-     - L3_오랜 기간 보호한 동물(2) (sql)
+     - <a href="https://programmers.co.kr/learn/courses/30/lessons/42587">L2_프린터</a>
+     - <a href="https://programmers.co.kr/learn/courses/30/lessons/59044">L3_오랜 기간 보호한 동물(1) (sql)</a>
+     - <a href="https://programmers.co.kr/learn/courses/30/lessons/42586">L2_기능개발</a>
+     - <a href="https://programmers.co.kr/learn/courses/30/lessons/59411">L3_오랜 기간 보호한 동물(2) (sql)</a>
 
 #### **코드 작성 규칙**
 
