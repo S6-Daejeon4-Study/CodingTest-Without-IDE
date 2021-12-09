@@ -1,0 +1,46 @@
+class Solution {
+    public int[] solution(int[] progresses, int[] speeds) {
+        int work[] = new int[101];
+        int beforeDay = 0;
+        for(int i = 0 ; i < progresses.length ; i ++){
+            int rem = 100 - progresses[i];
+            
+            int day = rem / speeds[i];
+            if(rem %  speeds[i] != 0){
+                day += 1;
+            }
+            
+            if(i == 0){
+                work[day] += 1;
+                beforeDay = day;
+                continue;
+            }
+            
+            if(beforeDay >=day){
+                work[beforeDay] += 1;
+            }
+            else{
+                work[day] += 1;
+                beforeDay = day;
+            }
+            
+        }
+        
+        int j = 0;
+        for(int i = 0 ; i < 101 ; i ++){
+            if(work[i]!=0){
+                j++;
+            }
+        }
+        
+        int[] answer = new int[j];
+        j = 0;
+        for(int i = 0 ; i < 101 ; i ++){
+            if(work[i]!=0){
+                answer[j++] = work[i];
+            }
+        }
+        
+        return answer;
+    }
+}
