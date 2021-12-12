@@ -48,6 +48,12 @@
      - <a href="https://programmers.co.kr/learn/courses/30/lessons/59044">L3_오랜 기간 보호한 동물(1) (sql)</a>
      - <a href="https://programmers.co.kr/learn/courses/30/lessons/42586">L2_기능개발</a>
      - <a href="https://programmers.co.kr/learn/courses/30/lessons/59411">L3_오랜 기간 보호한 동물(2) (sql)</a>
+    - 6주차(L3 3문제 + L2 2문제)
+      - L3_베스트앨범
+      - L2_오픈채팅방
+      - L3_있었는데요 없었습니다.(sql)
+      - L2_멀쩡한 사각형
+      - L3_헤비 유저가 소유한 장소(
 
 #### **코드 작성 규칙**
 
