@@ -1,0 +1,4 @@
+SELECT ID, NAME, HOST_ID  FROM PLACES where HOST_ID in
+(
+    select HOST_ID FROM PLACES group by HOST_ID having COUNT(HOST_ID) >= 2 
+)
