@@ -55,11 +55,11 @@
       - L2_멀쩡한 사각형
       - L3_헤비 유저가 소유한 장소(sql)
     - 7주차(L4 1문제 + L3 2문제 + L2 2문제)
-      - <a href="https://programmers.co.kr/learn/courses/30/lessons/">L3_리틀 프렌즈 사천성</a>
-      - <a href="https://programmers.co.kr/learn/courses/30/lessons/">L2_카카오프렌즈 컬러링북</a>
-      - <a href="https://programmers.co.kr/learn/courses/30/lessons/">L3_없어진 기록 찾기 (sql)</a>
-      - <a href="https://programmers.co.kr/learn/courses/30/lessons/">L4_보호소에서 중성화한 동물 (sql)</a>
-      - <a href="https://programmers.co.kr/learn/courses/30/lessons/">L2_빛의 경로 사이클)</a>
+      - <a href="https://programmers.co.kr/learn/courses/30/lessons/1836">L3_리틀 프렌즈 사천성</a>
+      - <a href="https://programmers.co.kr/learn/courses/30/lessons/1829">L2_카카오프렌즈 컬러링북</a>
+      - <a href="https://programmers.co.kr/learn/courses/30/lessons/59042">L3_없어진 기록 찾기 (sql)</a>
+      - <a href="https://programmers.co.kr/learn/courses/30/lessons/59045">L4_보호소에서 중성화한 동물 (sql)</a>
+      - <a href="https://programmers.co.kr/learn/courses/30/lessons/86052">L2_빛의 경로 사이클</a>
 
 #### **코드 작성 규칙**
 
