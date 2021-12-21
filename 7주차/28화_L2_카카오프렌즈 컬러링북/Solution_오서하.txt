@@ -1,0 +1,58 @@
+
+class Solution {
+    int[] di = { -1 ,0 ,1 ,0};
+    int[] dj = { 0, 1, 0, -1};
+    boolean[][] visit;
+    int[][] map;
+    int[] usedNum;
+    
+    int M,N,num;
+    public int[] solution(int m, int n, int[][] picture) {
+        int numberOfArea = 0;
+        int maxSizeOfOneArea = 0;
+
+        M = m;
+        N = n;
+        visit = new boolean[M][N];
+        map = new int[M][N];
+        
+        for(int i = 0 ; i < m ; i ++){
+            for(int j = 0 ; j < n ;j++){
+                map[i][j] = picture[i][j];
+            }
+        }
+ 
+        for(int i = 0 ; i < m ; i ++){
+            for(int j = 0 ; j < n ;j++){
+                if(picture[i][j] != 0 && !visit[i][j]){
+                    num = 0;
+                    dfs(i,j);
+                    maxSizeOfOneArea = num > maxSizeOfOneArea ? num : maxSizeOfOneArea;
+                    numberOfArea++;
+                }
+            }
+        }
+        
+        int[] answer = new int[2];
+        answer[0] = numberOfArea;
+        answer[1] = maxSizeOfOneArea;
+        
+        return answer;
+    }
+    
+    public void dfs(int i, int j){
+        
+        visit[i][j] = true;
+        num++;
+        
+        for(int k = 0 ; k < 4 ; k++){
+            int ni = i + di[k];
+            int nj = j + dj[k];
+            
+            if(ni < 0 || ni >= M || nj < 0 || nj >= N || visit[ni][nj]) continue;
+            if(map[i][j] == map[ni][nj]){
+                dfs(ni,nj);
+            }       
+        }
+    }
+}
