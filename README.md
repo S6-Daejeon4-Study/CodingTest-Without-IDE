@@ -60,7 +60,12 @@
       - <a href="https://programmers.co.kr/learn/courses/30/lessons/59042">L3_없어진 기록 찾기 (sql)</a>
       - <a href="https://programmers.co.kr/learn/courses/30/lessons/59045">L4_보호소에서 중성화한 동물 (sql)</a>
       - <a href="https://programmers.co.kr/learn/courses/30/lessons/86052">L2_빛의 경로 사이클</a>
-
+    - 8주차(L4 2문제 + L3 1문제 + L2 2문제)
+      - <a href="https://programmers.co.kr/learn/courses/30/lessons/42627">L3_디스크 컨트롤러</a>
+      - <a href="https://programmers.co.kr/learn/courses/30/lessons/62284">L4_우유와 요거트가 담긴 장바구니(sql) </a>
+      - <a href="https://programmers.co.kr/learn/courses/30/lessons/60057">L2_문자열 압축</a>
+      - <a href="https://programmers.co.kr/learn/courses/30/lessons/59413">L4_입양 시각 구하기(2) (sql)</a>
+      - <a href="https://programmers.co.kr/learn/courses/30/lessons/1835">L2_단체사진 찍기</a>
 #### **코드 작성 규칙**
 
 - 코딩 테스트와 유사한 환경에 익숙해지기 위함으로 IDE를 사용하지 않고 코드를 작성합니다.
