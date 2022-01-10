@@ -37,35 +37,42 @@
     - L1_상위n개레코드(sql)
     - L1_이름이있는동물의아이디(sql)
     - L1_크레인인형뽑기
-   - 4주차(L1 4문제)
+  - 4주차(L1 4문제)
      - L1_아픈동물찾기(sql)
      - L1_폰켓몬
      - L1_동물의아이디와이름(sql)
      - L1_두정수사이의합
-   - 5주차(L3 3문제 + L2 2문제)
+  - 5주차(L3 3문제 + L2 2문제)
      - <a href="https://programmers.co.kr/learn/courses/30/lessons/86053">L3_금과 은 운반하기</a>
      - <a href="https://programmers.co.kr/learn/courses/30/lessons/42587">L2_프린터</a>
      - <a href="https://programmers.co.kr/learn/courses/30/lessons/59044">L3_오랜 기간 보호한 동물(1) (sql)</a>
      - <a href="https://programmers.co.kr/learn/courses/30/lessons/42586">L2_기능개발</a>
      - <a href="https://programmers.co.kr/learn/courses/30/lessons/59411">L3_오랜 기간 보호한 동물(2) (sql)</a>
-    - 6주차(L3 3문제 + L2 2문제)
+  - 6주차(L3 3문제 + L2 2문제)
       - L3_베스트앨범
       - L2_오픈채팅방
       - L3_있었는데요 없었습니다.(sql)
       - L2_멀쩡한 사각형
       - L3_헤비 유저가 소유한 장소(sql)
-    - 7주차(L4 1문제 + L3 2문제 + L2 2문제)
+  - 7주차(L4 1문제 + L3 2문제 + L2 2문제)
       - <a href="https://programmers.co.kr/learn/courses/30/lessons/1836">L3_리틀 프렌즈 사천성</a>
       - <a href="https://programmers.co.kr/learn/courses/30/lessons/1829">L2_카카오프렌즈 컬러링북</a>
       - <a href="https://programmers.co.kr/learn/courses/30/lessons/59042">L3_없어진 기록 찾기 (sql)</a>
       - <a href="https://programmers.co.kr/learn/courses/30/lessons/59045">L4_보호소에서 중성화한 동물 (sql)</a>
       - <a href="https://programmers.co.kr/learn/courses/30/lessons/86052">L2_빛의 경로 사이클</a>
-    - 8주차(L4 2문제 + L3 1문제 + L2 2문제)
+  - 8주차(L4 2문제 + L3 1문제 + L2 2문제)
       - <a href="https://programmers.co.kr/learn/courses/30/lessons/42627">L3_디스크 컨트롤러</a>
       - <a href="https://programmers.co.kr/learn/courses/30/lessons/62284">L4_우유와 요거트가 담긴 장바구니(sql) </a>
       - <a href="https://programmers.co.kr/learn/courses/30/lessons/60057">L2_문자열 압축</a>
       - <a href="https://programmers.co.kr/learn/courses/30/lessons/59413">L4_입양 시각 구하기(2) (sql)</a>
       - <a href="https://programmers.co.kr/learn/courses/30/lessons/1835">L2_단체사진 찍기</a>
+  - 9주차(Basic Select 2문제 + L3 1문제 + L2 2문제)
+     - [L3_거스름돈](https://programmers.co.kr/learn/courses/30/lessons/12907)
+     - [Basic Select_Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true)
+     - [L2_피로도](https://programmers.co.kr/learn/courses/30/lessons/87946)
+     - [Basic Select_Select All](https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true)
+     - [L2_땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)
+
 #### **코드 작성 규칙**
 
 - 코딩 테스트와 유사한 환경에 익숙해지기 위함으로 IDE를 사용하지 않고 코드를 작성합니다.
