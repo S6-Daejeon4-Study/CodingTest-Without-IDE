@@ -1,0 +1,32 @@
+class Solution {
+    int answer = 0;
+    int N;
+    int[] Money;
+    public int solution(int n, int[] money) {
+        answer = 0;
+        N = n;
+        Money = money;
+        comb(0, 0);
+        answer = answer % 1000000007;
+        return answer;
+    }
+    
+    public void comb(int idx, int sum){
+        
+        
+        if(sum > N){
+            return;
+        }
+
+        if(sum == N){
+            answer++;
+            return;
+        }
+        
+        if(idx >= Money.length)
+            return;
+
+        comb(idx + 1, sum);
+        comb(idx, sum + Money[idx]);
+    }
+}
