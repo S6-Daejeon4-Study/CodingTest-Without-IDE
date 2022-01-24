@@ -72,6 +72,18 @@
      - [L2_피로도](https://programmers.co.kr/learn/courses/30/lessons/87946)
      - [Basic Select_Select All](https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true)
      - [L2_땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)
+  - 10주차(Adavanced Select 2문제 + L3 1문제 + L2 2문제)
+     - [L3_가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)
+     - [Adavanced Select_The PADS](https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true)
+     - [L2_배달](https://programmers.co.kr/learn/courses/30/lessons/12978)
+     - [Adavanced Select_Occupations](https://www.hackerrank.com/challenges/occupations/problem?isFullScreen=true)
+     - [L2_짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)
+  - 11주차(Adavanced Select 2문제 + L3 1문제 + L2 2문제)
+     - [L3_자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)
+     - [L2_거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)
+     - [The Report](https://www.hackerrank.com/challenges/the-report/problem?isFullScreen=true)
+     - [L2_점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980)
+     - [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem?isFullScreen=true)
 
 #### **코드 작성 규칙**
 
