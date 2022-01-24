@@ -1,0 +1,27 @@
+import java.util.*;
+class Solution
+{
+    public int solution(String s)
+    {
+        
+        Stack<Character> stack = new Stack<>(); 
+        int ans = 0;
+        
+        for(int i = 0 ; i < s.length(); i++){
+            if(stack.size() == 0)
+                stack.push(s.charAt(i));
+            else{
+                Character head = stack.peek();
+                if(head == s.charAt(i))
+                    stack.pop();
+                else
+                    stack.push(s.charAt(i));
+            }
+        }
+        
+        if(stack.size() == 0)
+            ans = 1;
+        
+        return ans;
+    }
+}
