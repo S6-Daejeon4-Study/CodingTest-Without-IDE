@@ -1,7 +1,7 @@
 # CodingTest-Without-IDE
 > START DATE : 2021-11-03
 >
-> 스터디장 : [@EuneeChung](https://github.com/EuneeChung)
+> 스터디장 : [@EuneeChung](https://github.com/EuneeChung)  
 > 스터디 운영 : [@KimYuJin](https://github.com/yujin-kim-92), [@Seoha-Oh](https://github.com/Seoha-Oh), [@WooJeongYeon](https://github.com/WooJeongYeon), [@EuneeChung](https://github.com/EuneeChung)
 
 **IDE를 사용하지 않고** 알고리즘 문제를 풀기 위한 SSAFY 6기 대전 4반의 알고리즘 스터디입니다.
