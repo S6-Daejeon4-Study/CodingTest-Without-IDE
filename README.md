@@ -120,8 +120,13 @@
      - [Placements](https://www.hackerrank.com/challenges/placements/problem?isFullScreen=true)
   
      
-  
-     
+   - 14주차(Basic Join 1문제 + Advanced Join 1문제+ L2 2문제 + L3 1문제)
+   
+     - [L3_이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)
+     - [L2_후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)
+     - [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem?isFullScreen=true)
+     - [L2_더맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)
+     - [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem?isFullScreen=true)
 
 #### **코드 작성 규칙**
 
