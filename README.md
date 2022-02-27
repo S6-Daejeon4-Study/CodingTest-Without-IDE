@@ -125,8 +125,17 @@
      - [L3_이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)
      - [L2_후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)
      - [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem?isFullScreen=true)
-     - [L2_더맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)
-     - [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem?isFullScreen=true)
+     - [L2_튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)
+     - [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem?isFullScreen=true)  
+
+
+  - 14주차(Basic Join 1문제 + Advanced Join 1문제+ L2 2문제 + L3 1문제)
+
+       - [L3_파괴되지 않은 건물](https://programmers.co.kr/learn/courses/30/lessons/92344)
+       - [L2_전력망을 둘로 나누기](https://programmers.co.kr/learn/courses/30/lessons/86971)
+       - [Challenges](https://www.hackerrank.com/challenges/challenges/problem?isFullScreen=true)
+       - [L2_프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)
+       - [Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem?isFullScreen=true)
 
 #### **코드 작성 규칙**
 
