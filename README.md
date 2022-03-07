@@ -32,60 +32,52 @@
     - L1\_완주하지못한선수
     - L1\_어린동물찾기(sql)
     - L1\_음양더하기
-
   - 2주차(L1 4문제)
-
+  
     - L1\_이름이없는동물의아이디(sql)
     - L1\_소수만들기
     - L1\_역순정렬하기(sql)
     - L1\_숫자문자열과영단어
-
   - 3주차(L1 4문제)
 
     - L1_3진법뒤집기
     - L1\_상위n개레코드(sql)
     - L1\_이름이있는동물의아이디(sql)
     - L1\_크레인인형뽑기
-
   - 4주차(L1 4문제)
-
+  
     - L1\_아픈동물찾기(sql)
     - L1\_폰켓몬
     - L1\_동물의아이디와이름(sql)
     - L1\_두정수사이의합
-
   - 5주차(L3 3문제 + L2 2문제)
-
+  
     - <a href="https://programmers.co.kr/learn/courses/30/lessons/86053">L3\_금과 은 운반하기</a>
     - <a href="https://programmers.co.kr/learn/courses/30/lessons/42587">L2\_프린터</a>
     - <a href="https://programmers.co.kr/learn/courses/30/lessons/59044">L3\_오랜 기간 보호한 동물(1) (sql)</a>
     - <a href="https://programmers.co.kr/learn/courses/30/lessons/42586">L2\_기능개발</a>
     - <a href="https://programmers.co.kr/learn/courses/30/lessons/59411">L3\_오랜 기간 보호한 동물(2) (sql)</a>
-
   - 6주차(L3 3문제 + L2 2문제)
-
+  
     - L3\_베스트앨범
     - L2\_오픈채팅방
     - L3\_있었는데요 없었습니다.(sql)
     - L2\_멀쩡한 사각형
     - L3\_헤비 유저가 소유한 장소(sql)
-
   - 7주차(L4 1문제 + L3 2문제 + L2 2문제)
-
+  
     - <a href="https://programmers.co.kr/learn/courses/30/lessons/1836">L3\_리틀 프렌즈 사천성</a>
     - <a href="https://programmers.co.kr/learn/courses/30/lessons/1829">L2\_카카오프렌즈 컬러링북</a>
     - <a href="https://programmers.co.kr/learn/courses/30/lessons/59042">L3\_없어진 기록 찾기 (sql)</a>
     - <a href="https://programmers.co.kr/learn/courses/30/lessons/59045">L4\_보호소에서 중성화한 동물 (sql)</a>
     - <a href="https://programmers.co.kr/learn/courses/30/lessons/86052">L2\_빛의 경로 사이클</a>
-
   - 8주차(L4 2문제 + L3 1문제 + L2 2문제)
-
+  
     - <a href="https://programmers.co.kr/learn/courses/30/lessons/42627">L3\_디스크 컨트롤러</a>
     - <a href="https://programmers.co.kr/learn/courses/30/lessons/62284">L4\_우유와 요거트가 담긴 장바구니(sql) </a>
     - <a href="https://programmers.co.kr/learn/courses/30/lessons/60057">L2\_문자열 압축</a>
     - <a href="https://programmers.co.kr/learn/courses/30/lessons/59413">L4\_입양 시각 구하기(2) (sql)</a>
     - <a href="https://programmers.co.kr/learn/courses/30/lessons/1835">L2\_단체사진 찍기</a>
-
   - 9주차(Basic Select 2문제 + L3 1문제 + L2 2문제)
 
     - [L3\_거스름돈](https://programmers.co.kr/learn/courses/30/lessons/12907)
@@ -93,15 +85,13 @@
     - [L2\_피로도](https://programmers.co.kr/learn/courses/30/lessons/87946)
     - [Basic Select_Select All](https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true)
     - [L2\_땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)
-
   - 10주차(Adavanced Select 2문제 + L3 1문제 + L2 2문제)
-
+  
     - [L3\_가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)
     - [Adavanced Select_The PADS](https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true)
     - [L2\_배달](https://programmers.co.kr/learn/courses/30/lessons/12978)
     - [Adavanced Select_Occupations](https://www.hackerrank.com/challenges/occupations/problem?isFullScreen=true)
     - [L2\_짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)
-
   - 11주차(Adavanced Select 2문제 + L3 1문제 + L2 2문제)
 
     - [L3\_자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)
@@ -109,41 +99,43 @@
     - [The Report](https://www.hackerrank.com/challenges/the-report/problem?isFullScreen=true)
     - [L2\_점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980)
     - [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem?isFullScreen=true)
-
   - 12주차(Basic Join 1문제 + Aggregation 1문제+ L3 1문제 + L2 2문제)
-
+  
     - [L3_GPS](https://programmers.co.kr/learn/courses/30/lessons/1837)
     - [L2\_메뉴리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)
     - [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem?isFullScreen=true)
     - [L2\_[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)
     - [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem?isFullScreen=true)
-
   - 13주차(Advanced Join 1문제 + Advanced Select 1문제+ L2 3문제)
-
+  
     - [L2\_전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)
 
     - [L2_124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)
 
     - [New Companies](https://www.hackerrank.com/challenges/the-company/problem?isFullScreen=true)
-
+  
     - [L2\_더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)
-
+  
     - [Placements](https://www.hackerrank.com/challenges/placements/problem?isFullScreen=true)
-
   - 14주차(Basic Join 1문제 + Advanced Join 1문제+ L2 2문제 + L3 1문제)
-
+  
     - [L3\_이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)
     - [L2\_후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)
     - [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem?isFullScreen=true)
     - [L2\_튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)
     - [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem?isFullScreen=true)
-
   - 15주차(L2 1문제 + L3 1문제 + 삼성 2문제)
-
     - [L3\_파괴되지 않은 건물](https://programmers.co.kr/learn/courses/30/lessons/92344)
     - [L2\_전력망을 둘로 나누기](https://programmers.co.kr/learn/courses/30/lessons/86971)
     - [온풍기 안녕!](https://www.acmicpc.net/problem/23289)
     - [어른 상어](https://www.acmicpc.net/problem/19237)
+  - 16주차(L2 1문제 + L3 1문제 + 삼성 2문제)
+    - [L3\_입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)
+    - [L2\_[1차]캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)
+    - [마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611)
+    - [모노미노도미노2](https://www.acmicpc.net/problem/20061)
+
+
 
 #### **코드 작성 규칙**
 
