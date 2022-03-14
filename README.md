@@ -134,6 +134,11 @@
     - [L2\_[1차]캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)
     - [마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611)
     - [모노미노도미노2](https://www.acmicpc.net/problem/20061)
+  - 17주차(L2 1문제 + L3 1문제 + 삼성 2문제)
+     - [L3_2xn타일링](https://programmers.co.kr/learn/courses/30/lessons/12900)
+     - [L2_행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949)
+     - [구슬탈출](https://www.acmicpc.net/problem/13460)
+     - [모노미노도미노2](https://www.acmicpc.net/problem/20061)
 
 
 
