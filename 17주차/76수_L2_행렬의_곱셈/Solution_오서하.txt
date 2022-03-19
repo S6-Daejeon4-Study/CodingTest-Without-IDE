@@ -1,0 +1,18 @@
+class Solution {
+    public int[][] solution(int[][] arr1, int[][] arr2) {
+        int M = arr1.length;
+        int N = arr2[0].length;
+        int K = arr2.length;
+        
+        int[][] ans= new int[M][N];
+        
+        for(int m = 0 ; m < M ; m++){
+            for(int n = 0 ; n < N ; n++){
+                for(int k = 0 ; k < K ; k++){
+                    ans[m][n] += arr1[m][k] * arr2[k][n];
+                }
+            }
+        }
+        return ans;
+    }
+}
