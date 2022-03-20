@@ -139,7 +139,12 @@
      - [L2_행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949)
      - [구슬탈출](https://www.acmicpc.net/problem/13460)
      - [모노미노도미노2](https://www.acmicpc.net/problem/20061)
-
+  - 18주차(L3 1문제 + L2 3문제 + sql 1문제)
+     - [L3_외벽점검](https://programmers.co.kr/learn/courses/30/lessons/60062)
+     - [L2_주차요금계산](https://programmers.co.kr/learn/courses/30/lessons/92341)
+     - [L3_헤비 유저가 소유한 장소](https://programmers.co.kr/learn/courses/30/lessons/77487)
+     - [L2_올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)
+     - [L2_파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686)
 
 
 #### **코드 작성 규칙**
