@@ -145,6 +145,12 @@
      - [L3_헤비 유저가 소유한 장소](https://programmers.co.kr/learn/courses/30/lessons/77487)
      - [L2_올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)
      - [L2_파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686)
+   - 19주차(L3 1문제 + L2 3문제 + sql 1문제)
+     - [L3_셔틀버스](https://programmers.co.kr/learn/courses/30/lessons/17678)
+     - [L2_2개 이하로 다른 비트](https://programmers.co.kr/learn/courses/30/lessons/77885)
+     - [L3_조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)
+     - [L2_[1차] 프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)
+     - [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem?isFullScreen=true)
 
 
 #### **코드 작성 규칙**
