@@ -151,9 +151,14 @@
      - [L3_조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)
      - [L2_[1차] 프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)
      - [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem?isFullScreen=true)
+   - 20주차(L3 1문제 + L2 2문제 + 삼성 2문제)
+     - [L2_행렬테두리회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)
+     - [L3_순위](https://programmers.co.kr/learn/courses/30/lessons/49191)
+     - [인구이동](https://www.acmicpc.net/problem/16234)
+     - [L2_[1차] 프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)
+     - [나무재테크](https://www.acmicpc.net/problem/16235)
 
-
-#### **코드 작성 규칙**
+**코드 작성 규칙**
 
 - 코딩 테스트와 유사한 환경에 익숙해지기 위함으로 IDE를 사용하지 않고 코드를 작성합니다.
 
