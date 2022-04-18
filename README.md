@@ -158,7 +158,7 @@
      - [L2_[1차] 프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)
      - [나무재테크](https://www.acmicpc.net/problem/16235)
    - 21주차(L3 1문제 + L2 2문제 + 삼성 2문제)
-     - [L3_추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/60057)
+     - [L3_추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676)
      - [톱니바퀴](https://www.acmicpc.net/problem/14891)
      - [L2_점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980)
      - [경사로](https://www.acmicpc.net/problem/14890)
