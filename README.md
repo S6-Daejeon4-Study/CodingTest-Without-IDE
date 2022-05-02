@@ -169,6 +169,12 @@
      - [미세먼지 안녕!](https://www.acmicpc.net/problem/17144)
      - [어항 정리](https://www.acmicpc.net/problem/23291)
      - [청소년 상어](https://www.acmicpc.net/problem/19236)
+  - 23주차(프로그래머스 카카오)
+     - [L1_신규아이디추천](https://programmers.co.kr/learn/courses/30/lessons/72410)
+     - [L2_괄호변환](https://programmers.co.kr/learn/courses/30/lessons/60058)
+     - [L3_수식최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)
+     - [L2_튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)
+     - [L3_표편집](https://programmers.co.kr/learn/courses/30/lessons/81303)
 
 **코드 작성 규칙**
 
