@@ -181,6 +181,11 @@
      - [L3_양과 늑대](https://programmers.co.kr/learn/courses/30/lessons/92343)
      - [L2_피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)
      - [L3_사라지는 발판](https://programmers.co.kr/learn/courses/30/lessons/92345)
+  - 25주차(프로그래머스)
+     - [L2_다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)
+     - [L2_다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)
+     - [L1_서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)
+     - [L1_키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)
 
 **코드 작성 규칙**
 
