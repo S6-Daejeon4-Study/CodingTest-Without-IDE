@@ -186,10 +186,6 @@
      - [L2_다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)
      - [L1_서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)
      - [L1_키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)
-   - 26주차(프로그래머스)
-      - [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)
-      - [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)
-
 
 
 **코드 작성 규칙**
