@@ -21,7 +21,6 @@ class Solution {
                 time = tmp.t + bridge_length;
                 bridge_weight -= tmp.w;
                 cnt++;
-				// 나가는 순간 다리에 여유가 있으면 새로운 차가 들어올 수 있다.
                 if(idx<len && bridge_weight + truck_weights[idx] <= weight){
                     if(!bridgeOn.isEmpty() && time <= bridgeOn.get(bridgeOn.size()-1).t)
                         time = bridgeOn.get(bridgeOn.size()-1).t + 1;
