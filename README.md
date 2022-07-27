@@ -1,6 +1,6 @@
 # CodingTest-Without-IDE
 
-> START DATE : 2021-11-03
+> START DATE : 2021-11-03 ~ 2022-05-13
 >
 > 스터디장 : [@EuneeChung](https://github.com/EuneeChung)  
 > 스터디 운영 : [@KimYuJin](https://github.com/yujin-kim-92), [@Seoha-Oh](https://github.com/Seoha-Oh), [@WooJeongYeon](https://github.com/WooJeongYeon), [@EuneeChung](https://github.com/EuneeChung)
